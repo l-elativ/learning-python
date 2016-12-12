@@ -3,6 +3,7 @@ def mcd(a, b):
     # if a == b:
     #     return a
     # return mcd(a - b, b) if a > b else mcd(a, b - a)
+dsfdsfsdfd
 
 
 def main():
