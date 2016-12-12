@@ -1,10 +1,3 @@
-# from functools import partial
-#
-#
-# def multipli(item1, item2):
-#     return item2 % item1 != 0
-
-
 def sieve(n):
     soe = list(range(2, n))
     # soe = [x for x in range(2, n)]
