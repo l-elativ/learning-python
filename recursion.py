@@ -5,6 +5,7 @@ def mcd(a, b):
     # return mcd(a - b, b) if a > b else mcd(a, b - a)
 dsfdsfsdfd
 
+vxcvcvvcvcxvcx
 
 def main():
     print(mcd(18, 6))
